@@ -19,6 +19,11 @@ This Python script generates Onion v3 addresses and attempts to fetch content fr
 
 ## Installation
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/onion-v3-validator.git
-   cd onion-v3-validator
+   git clone https://github.com/your-username/ShallotHunter.git
+   cd ShallotHunter
+
+2. Install the required Python packages:
+   pip install -r requirements.txt
+
+3. Start the Tor service:
+   sudo service tor start
