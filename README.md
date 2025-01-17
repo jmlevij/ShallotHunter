@@ -27,3 +27,8 @@ This Python script generates Onion v3 addresses and attempts to fetch content fr
 
 3. Start the Tor service:
    sudo service tor start
+
+   <img width="1273" alt="ShallotHunter" src="https://github.com/user-attachments/assets/73d17d8b-7eb4-4162-98c8-67d9932bf07b" />
+
+
+   
